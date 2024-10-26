@@ -1,0 +1,16 @@
+.box {
+     background-color: aqua;
+     margin: 0 auto;
+     width: 500px ;
+     border: 20px solid black;
+    font-size: 17px;
+    padding: 10px;
+}
+.inner_box{
+    background-color: aqua;
+    margin: 0 auto;
+    width: 500px ;
+    border: 20px  solid black;
+    font-size: 18px;
+    padding: 10px;
+}
